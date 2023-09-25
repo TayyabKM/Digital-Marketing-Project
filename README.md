@@ -49,6 +49,14 @@ To use this landing page template, you can follow these steps:
 
 Feel free to customize this template for your own digital marketing project. You can modify the content, colors, and images to match your branding.
 
+## Author 
+
+👤 **TayyabKM**
+
+- Github: [@TayyabKM](https://github.com/TayyabKM)
+- Twitter: [@TayyabI83126361](https://twitter.com/TayyabI83126361)
+- Linkedin: [@tayyab-irfan-01b72b1aa](https://www.linkedin.com/in/tayyab-irfan-01b72b1aa/)
+
 ## Contributing
 
 If you would like to contribute to this project, please open an issue or submit a pull request.
@@ -57,6 +65,4 @@ If you would like to contribute to this project, please open an issue or submit 
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Author
 
-- [Tayyab Kamboh](https://github.com/TayyabKM)
