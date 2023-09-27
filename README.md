@@ -28,7 +28,6 @@ This landing page template is designed for a digital marketing project. It inclu
 - Features section with automated feature highlights
 - Pricing plans section with CTA buttons
 - Testimonials section
-- Client showcase section
 - FAQs section with accordion-style questions and answers
 - Contact information section
 - Social media links
@@ -41,8 +40,8 @@ This landing page template is designed for a digital marketing project. It inclu
 
 To use this landing page template, you can follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/your-repo.git`
-2. Navigate to the project directory: `cd your-repo`
+1. Clone the repository: `git clone https://github.com/TayyabKM/Digital-Marketing-Project.git`
+2. Navigate to the project directory: `cd Digital-Marketing-Project`
 3. Open the `index.html` file in your web browser.
 
 ## Usage
